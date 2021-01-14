@@ -1,0 +1,66 @@
+banner {
+    
+    margin-left:auto;
+    margin-right: auto;
+        
+}
+
+body  {
+    
+    background-color: #6F4E73;
+    
+}
+        
+div {
+    
+    margin: auto;
+    width: 900px;
+    background-color: #B48768;
+    
+}
+
+h1 {
+    
+    text-align: center;
+    
+}
+
+h2 {
+    
+    text-align: center;
+    
+}
+
+hr {
+    
+    height:5px;
+    color: #6F4E73;
+    background-color: #6F4E73;
+    border: none;
+    
+}
+
+.center {
+    
+    text-align: center;
+}
+
+.left {
+    
+    float: left;
+    padding: 0 10px 0 0;
+    
+}
+.right {
+    
+    float: right;
+    padding: 0 10px 0 0;
+
+}
+
+table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+
+} 
